@@ -26,6 +26,10 @@ These instructions will get you a copy of the project up and running on your loc
 - [Docker](https://docs.docker.com/install/) - Make it easier to create, deploy, and run applications by using containers
 - [Docker Compose](https://docs.docker.com/compose/install/) - Relies on Docker Engine for any meaningful work, so make sure you have Docker Engine installed either locally or remote, depending on your setup.
 
+
+If you have troubles in settingup the docker the you can install pd-admin alongwith postgress in the local system so that you could check it with in the system itself 
+
+
 What things you need to install the software and how to install them
 
 ```
